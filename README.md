@@ -1,4 +1,4 @@
-Hello, my name is Paula Reis. I'm an aquatic ecologist working on aquatic biogeochemistry and microbial ecology.
+Hello, my name is Paula Reis. I'm an aquatic ecologist interested in biogeochemistry and microbial ecology.
 
 <!---
 paulacjr/paulacjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
